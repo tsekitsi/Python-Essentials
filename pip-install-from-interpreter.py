@@ -1,4 +1,5 @@
 # https://stackoverflow.com/questions/12332975/installing-python-module-within-code
+# How to deal with problematic module installation: https://stackoverflow.com/questions/54715835/numpy-is-installed-but-still-getting-error#answer-57631417
 
 import pip
 
